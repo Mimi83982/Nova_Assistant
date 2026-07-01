@@ -134,13 +134,6 @@ Nova-Assistant/
 ├── engine.py
 ├── requirements.txt
 ├── profiles.json
-│
-├── static/
-│
-├── templates/
-│
-├── assets/
-│
 └── README.md
 ```
 
